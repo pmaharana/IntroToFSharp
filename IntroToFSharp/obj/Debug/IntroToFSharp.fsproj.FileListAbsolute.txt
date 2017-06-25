@@ -1,0 +1,9 @@
+C:\Users\prana\tiy\Practice\FSharp\IntroToFSharp\IntroToFSharp\bin\Debug\IntroToFSharp.exe.config
+C:\Users\prana\tiy\Practice\FSharp\IntroToFSharp\IntroToFSharp\bin\Debug\IntroToFSharp.XML
+C:\Users\prana\tiy\Practice\FSharp\IntroToFSharp\IntroToFSharp\bin\Debug\IntroToFSharp.exe
+C:\Users\prana\tiy\Practice\FSharp\IntroToFSharp\IntroToFSharp\bin\Debug\IntroToFSharp.pdb
+C:\Users\prana\tiy\Practice\FSharp\IntroToFSharp\IntroToFSharp\bin\Debug\FSharp.Core.dll
+C:\Users\prana\tiy\Practice\FSharp\IntroToFSharp\IntroToFSharp\bin\Debug\System.ValueTuple.dll
+C:\Users\prana\tiy\Practice\FSharp\IntroToFSharp\IntroToFSharp\bin\Debug\FSharp.Core.xml
+C:\Users\prana\tiy\Practice\FSharp\IntroToFSharp\IntroToFSharp\obj\Debug\IntroToFSharp.exe
+C:\Users\prana\tiy\Practice\FSharp\IntroToFSharp\IntroToFSharp\obj\Debug\IntroToFSharp.pdb
